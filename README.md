@@ -1,1 +1,3 @@
-TCP-server and Telnet client on python ver 1.0.
+Server - который предназначен для обработки опреденных данных и записи этих данных в log файл.
+Client- предназначен для отправки этих данных на сервер.
+Async-Server - асинхронная версия Server.
